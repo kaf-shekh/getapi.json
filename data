@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "ClientId": 0,
+      "CustomerId": 1,
+      "IsActive": true,
+      "Name": "kafeel",
+      "SectorIds": "string"
+    },
+    {
+      "ClientId": 1,
+      "CustomerId": 2,
+      "IsActive": true,
+      "Name": "kaf shekh",
+      "SectorIds": "string"
+    },
+    {
+      "ClientId": 2,
+      "CustomerId": 3,
+      "IsActive": true,
+      "Name": "Ahmad Kafeel",
+      "SectorIds": "string"
+    }
+  ]
+}
